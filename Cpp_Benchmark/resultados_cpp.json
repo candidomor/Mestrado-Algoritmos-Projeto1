@@ -1,0 +1,222 @@
+{
+  "Bubble Sort": {
+    "Aleatório": {
+      "1000": {
+        "media": 0.00103382,
+        "desvio_padrao": 0.00001738
+      },
+      "10000": {
+        "media": 0.11122474,
+        "desvio_padrao": 0.00201249
+      },
+      "100000": {
+        "media": 16.35481294,
+        "desvio_padrao": 0.07124928
+      }
+    },
+    "Crescente": {
+      "1000": {
+        "media": 0.00000062,
+        "desvio_padrao": 0.00000004
+      },
+      "10000": {
+        "media": 0.00000366,
+        "desvio_padrao": 0.00000009
+      },
+      "100000": {
+        "media": 0.00004274,
+        "desvio_padrao": 0.00000899
+      }
+    },
+    "Decrescente": {
+      "1000": {
+        "media": 0.00186866,
+        "desvio_padrao": 0.00000326
+      },
+      "10000": {
+        "media": 0.19234624,
+        "desvio_padrao": 0.00332699
+      },
+      "100000": {
+        "media": 19.27117596,
+        "desvio_padrao": 0.07590523
+      }
+    }
+  },
+  "Selection Sort": {
+    "Aleatório": {
+      "1000": {
+        "media": 0.00015958,
+        "desvio_padrao": 0.00000248
+      },
+      "10000": {
+        "media": 0.01320564,
+        "desvio_padrao": 0.00015668
+      },
+      "100000": {
+        "media": 1.27302088,
+        "desvio_padrao": 0.01379932
+      }
+    },
+    "Crescente": {
+      "1000": {
+        "media": 0.00012796,
+        "desvio_padrao": 0.00000082
+      },
+      "10000": {
+        "media": 0.01235568,
+        "desvio_padrao": 0.00009932
+      },
+      "100000": {
+        "media": 1.25491426,
+        "desvio_padrao": 0.00497008
+      }
+    },
+    "Decrescente": {
+      "1000": {
+        "media": 0.00013714,
+        "desvio_padrao": 0.00000263
+      },
+      "10000": {
+        "media": 0.01315490,
+        "desvio_padrao": 0.00080548
+      },
+      "100000": {
+        "media": 1.28933500,
+        "desvio_padrao": 0.01173134
+      }
+    }
+  },
+  "Insertion Sort": {
+    "Aleatório": {
+      "1000": {
+        "media": 0.00005490,
+        "desvio_padrao": 0.00000241
+      },
+      "10000": {
+        "media": 0.00464708,
+        "desvio_padrao": 0.00005166
+      },
+      "100000": {
+        "media": 0.46551444,
+        "desvio_padrao": 0.00577445
+      }
+    },
+    "Crescente": {
+      "1000": {
+        "media": 0.00000056,
+        "desvio_padrao": 0.00000009
+      },
+      "10000": {
+        "media": 0.00000464,
+        "desvio_padrao": 0.00000011
+      },
+      "100000": {
+        "media": 0.00004632,
+        "desvio_padrao": 0.00000228
+      }
+    },
+    "Decrescente": {
+      "1000": {
+        "media": 0.00009686,
+        "desvio_padrao": 0.00000021
+      },
+      "10000": {
+        "media": 0.00927278,
+        "desvio_padrao": 0.00006614
+      },
+      "100000": {
+        "media": 0.93103622,
+        "desvio_padrao": 0.00590284
+      }
+    }
+  },
+  "Merge Sort": {
+    "Aleatório": {
+      "1000": {
+        "media": 0.00004932,
+        "desvio_padrao": 0.00003204
+      },
+      "10000": {
+        "media": 0.00044908,
+        "desvio_padrao": 0.00002756
+      },
+      "100000": {
+        "media": 0.00565234,
+        "desvio_padrao": 0.00020131
+      }
+    },
+    "Crescente": {
+      "1000": {
+        "media": 0.00001392,
+        "desvio_padrao": 0.00001548
+      },
+      "10000": {
+        "media": 0.00008956,
+        "desvio_padrao": 0.00000301
+      },
+      "100000": {
+        "media": 0.00090864,
+        "desvio_padrao": 0.00001742
+      }
+    },
+    "Decrescente": {
+      "1000": {
+        "media": 0.00001936,
+        "desvio_padrao": 0.00001909
+      },
+      "10000": {
+        "media": 0.00007902,
+        "desvio_padrao": 0.00000247
+      },
+      "100000": {
+        "media": 0.00084774,
+        "desvio_padrao": 0.00003485
+      }
+    }
+  },
+  "Quick Sort": {
+    "Aleatório": {
+      "1000": {
+        "media": 0.00002850,
+        "desvio_padrao": 0.00000179
+      },
+      "10000": {
+        "media": 0.00033190,
+        "desvio_padrao": 0.00000688
+      },
+      "100000": {
+        "media": 0.00406652,
+        "desvio_padrao": 0.00004624
+      }
+    },
+    "Crescente": {
+      "1000": {
+        "media": 0.00000430,
+        "desvio_padrao": 0.00000087
+      },
+      "10000": {
+        "media": 0.00004956,
+        "desvio_padrao": 0.00000208
+      },
+      "100000": {
+        "media": 0.00059498,
+        "desvio_padrao": 0.00003870
+      }
+    },
+    "Decrescente": {
+      "1000": {
+        "media": 0.00000720,
+        "desvio_padrao": 0.00000383
+      },
+      "10000": {
+        "media": 0.00008188,
+        "desvio_padrao": 0.00001486
+      },
+      "100000": {
+        "media": 0.00099368,
+        "desvio_padrao": 0.00002855
+      }
+    }
+  }
+}
